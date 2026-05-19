@@ -90,4 +90,4 @@ Welcome to the official Aestherbot documentation site.
 
 7. **Contact**
 
-   For questions, join the official Aestherbot Discord server.
+   For questions, join the official Aestherbot Discord server. https://discord.gg/px4TmjMz
